@@ -13,7 +13,7 @@ Optimisez le potentiel de votre entreprise avec notre agence web créative spéc
 - **Crédits :** Merci à xxx pour le Template [Thanks](##).
 
 ## Découvrez la Démo
-![preview img](/preview.png)
+![preview img](/preview_.png)
 Pour découvrir Ivomy en action, rendez-vous sur [YouTube](lien_youtube). N'oubliez pas de vous abonner à notre chaîne [LeCoderon](lien_youtube) pour plus de vidéos captivantes !
 
 ## Comment Contribuer
